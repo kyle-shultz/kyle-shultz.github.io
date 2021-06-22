@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub page!  
 
-You can use the [editor on GitHub](https://github.com/kyle-shultz/kyle-shultz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+**Below are Projects I am currently working on**
+
+Created my first repository Hello World!
+[Click here to check it out](https://github.com/kyle-shultz/hello-world)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
