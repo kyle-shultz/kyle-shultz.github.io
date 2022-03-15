@@ -1,40 +1,35 @@
-## Welcome to my GitHub page!  
+## Welcome 
 
-**Below are Projects I am currently working on**
+**Below are Projects I have completed**
 
-Created my first repository Hello World!
-[Click here to check it out](https://github.com/kyle-shultz/hello-world)
+*Keep in mind most my repositories are private for school, please contact me at kylethomasshultz@gmail.com if you have an interest in viewing these.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Chat Server with Sockets (Java)
 
-### Markdown
+DNA Seqeunce BTree Project (Java)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Deterministic Finite Automata (Java)
 
-```markdown
-Syntax highlighted code block
+Non-Deterministic Finite Automata (Java)
 
-# Header 1
-## Header 2
-### Header 3
+Buddy Memory Allocation system (C)
 
-- Bulleted
-- List
+Lottery Scheduler (C)
 
-1. Numbered
-2. List
+SSH Processes Masker (C)
 
-**Bold** and _Italic_ and `Code` text
+LRU Cache (C)
 
-[Link](url) and ![Image](src)
-```
+Page Fault Handler (C)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+School Management System (Java and SQL)
 
-### Jekyll Themes
+### About Me
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kyle-shultz/kyle-shultz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My name is Kyle Shultz and I am a second degree seeking student studying Computer Science at Boise State University.  Currently looking for an internship where I can learn about the professional world of Software Engineering.  Although I am leaning towards becoming a Full Stack Web Developer I am not certain where I want to land and I am eager to learn about all the different opportunities I have as a Software Engineeer. 
 
-### Support or Contact
+###Contat Information
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- ***Email***: kylethomasshultz@gmail.com
+- ***Phone***: (208) 761-2036
+- ***Linkedin***: https://www.linkedin.com/in/kyle-shultz-09652983/
