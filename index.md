@@ -28,7 +28,7 @@ School Management System (Java and SQL)
 
 My name is Kyle Shultz and I am a second degree seeking student studying Computer Science at Boise State University.  Currently looking for an internship where I can learn about the professional world of Software Engineering.  Although I am leaning towards becoming a Full Stack Web Developer I am not certain where I want to land and I am eager to learn about all the different opportunities I have as a Software Engineeer. 
 
-###Contact Information
+### Contact Information
 
 - ***Email***: kylethomasshultz@gmail.com
 - ***Phone***: (208) 761-2036
